@@ -1,5 +1,5 @@
 <div align = "center">
-<h1> BMSCE CSE LAB PROGRAMS - SEM WISE </h1>
+<h1> BMSCE CSE LAB PROGRAMS </h1>
 <br>
 <h2>Name - Sayed Ayman Bukhari</h2>
 <h2>USN - 1BM18CS095</h2>
